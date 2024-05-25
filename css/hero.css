@@ -4,4 +4,9 @@ body{
 
 header{
 	backround-color: #d14635;
+	text-align: center;
+}
+
+header h1{
+	color: white;
 }
