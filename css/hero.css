@@ -5,8 +5,17 @@ body{
 header{
 	background-color: orange;
 	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 20px;
 }
 
 header h1{
 	color: white;
+	font-family: 'Halvetica', 'Arial', sans-serif;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 10px solid black;
 }
